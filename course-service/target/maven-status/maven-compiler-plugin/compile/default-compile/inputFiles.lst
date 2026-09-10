@@ -1,0 +1,11 @@
+/workspaces/course/course-service/src/main/java/com/example/courseservice/CourseServiceApplication.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/controller/CourseController.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/exception/CourseNotFoundException.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/exception/DuplicateCourseException.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/exception/EnrollmentNotFoundException.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/exception/ErrorResponse.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/exception/GlobalExceptionHandler.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/model/Course.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/repository/CourseRepository.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/service/CourseService.java
+/workspaces/course/course-service/src/main/java/com/example/courseservice/service/CourseServiceImpl.java
